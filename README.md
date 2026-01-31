@@ -1,13 +1,25 @@
-# Привет 👋, я Николай  
+# Hi, I'm Nikolai
 
-💻 Студент-программист 
-🚀 Специализация: разработка приложений  
+Backend-focused developer.
+
+I work mainly with **PHP backend systems**, REST APIs, and production-oriented architectures.  
+Prefer clean, maintainable solutions and long-living codebases.
+
+---
+
+### Stack
+- PHP
+- PostgreSQL / MySQL
+- React
+- Docker
+- REST APIs
 
 ---
 
-###  Инструменты:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,mongodb,python,java,flutter,dart,unity,androidstudio,git,github,vscode" />
-</p>
+### Notes
+- Experience with large existing systems and legacy code
+- Focus on stability, updates safety, and business logic
 
 ---
+
+Thanks for stopping by.
